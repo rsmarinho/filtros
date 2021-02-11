@@ -1,7 +1,5 @@
 # Filtros Analógicos
 
----
-
 ## Dados Gerais da Turma
 
 ### Turma
@@ -19,8 +17,6 @@ Rafael de Sousa Marinho
 ### Horário
 
 46M45
-
----
 
 ## Programa do Componente Curricular
 
@@ -42,8 +38,6 @@ Prover os princípios de análise e síntese de filtros elétricos de diferentes
 - Filtros a capacitores chaveados
 - Filtros a capacitores comutados
 - Filtros digitais
-
----
 
 ## Metodologia de Ensino e Avaliação
 
@@ -70,11 +64,7 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 ### Básicas
 
 1. Kendall Su, Analog Filters, Second Edition. Kluwer Academic Publishers. 2002
-2. Gobind Daryanam;. Principles of Active Network Synthesis and Design. John Wiley and Sons. 1978
-3. Livro 3
-4. Livro 4
-
----
+2. Gobind Daryanany;. Principles of Active Network Synthesis and Design. John Wiley and Sons. 1978
 
 ## Plano de Ensino
 
@@ -93,6 +83,8 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 #### Aula 10
 #### Estágio 01
 
+---
+
 ### Unidade 02
 
 #### Aula 11
@@ -106,6 +98,8 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 #### Aula 19
 #### Aula 20
 #### Estágio 02
+
+---
 
 ### Unidade 03
 
