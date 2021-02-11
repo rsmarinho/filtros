@@ -1,0 +1,3 @@
+set filetype=ascii
+set ngbehavior=hs
+set numthreads = 8
