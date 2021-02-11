@@ -72,6 +72,13 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 ### Unidade 01
 
 #### Aula 01
+* Introdução à filtragem
+* Compreender o que é um filtro
+* Filtros em vários estados
+* Desenvolver noção de tipos de Filtro
+* Exemplo de simulação de um filtro
+* Calcular função de transferência de filtros
+
 #### Aula 02
 #### Aula 03
 #### Aula 04
