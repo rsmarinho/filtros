@@ -74,131 +74,49 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 3. Livro 3
 4. Livro 4
 
-### Complementares
-
-1. Livro 1
-2. Livro 2
-3. Livro 3
-4. Livro 4
-
 ---
 
 ## Plano de Ensino
 
-### Introdução
-
-- Revisão de resposta em Frequência e transformadas
-- Revisão de análise de redes passivas e ativas
-  - Função de transferência
-- Diagrama de Bode
-- Conceitos de Filtragem (Chapter 03)
 
 ### Unidade 01
 
 #### Aula 01
-
-- Análise de redes RLC,
-- Funções de rede,
-- Propriedades de Funções de rede (2.4)
-- Propriedades de Funções de transferência
-- Gráfico de Magniture e Fase (Bode Plot)
-
 #### Aula 02
-
-- Conceitos de filtros
-  - Características de filtros
-- Resonador RLC de 1a e 2a ordem
-- Função Biquadrática
-
 #### Aula 03
-
-- Problema de aproximação
-  - Chebyshev Approximation
-  - Butterworth Approximation
-  - Bessel
-  - Cauer
-- Transformação de Frequência: High-Pass, Band-Pass e Band-Reject Filters
-
 #### Aula 04
-
-- Formas Fatoradas da Função de Aproximação
-
 #### Aula 05
-
-- Síntese de Redes Passivas
-  - Por Inspeção
-  - Driving Point Synthesis
-  - Por Função de Transferência
-
-#### Aula 06 - TP 01
-
-Experimentos Redes RLC:
-
-- Filtros de 1a ordem
-  - Filtro Passa-Altas
-  - Filtro Passa-Baixas
-- Filtros de 2a ordem
-  - Filtro Passa-Altas
-  - Filtro Passa-Baixas
-
-#### Aula 07 - TP 02
-
-Experimentos Filtros RF:
-
-- Filtros em cascata:
-  - Ver vídeo https://www.youtube.com/watch?v=1sq8Cvju2Oo
-
-#### Aula 08 - Avaliação 01
-
-- Sintese de Filtros Ativos
+#### Aula 06
+#### Aula 07
+#### Aula 08
+#### Aula 09
+#### Aula 10
+#### Estágio 01
 
 ### Unidade 02
 
-Filtros Ativos
-
-- Conceituação de filtragem ativa
-- Análise de filtros ativos (Chapter 07)
-  - Formas fatoradas da função de aproximação
-  - Abordagem em cascata
-  - Polos e zeros reais
-- Topologia biquadrada
-  - Realimentação positiva / negativa
-- Realimentação e filtros biquadrada
-  - Topologia Sallen and Key
-- Topologia Biquadrada com 3 amplificadores (Chapter 10)
-
-#### Aula 09
-
-#### Aula 10
-
 #### Aula 11
-
 #### Aula 12
-
 #### Aula 13
-
-#### Aula 14 - TP 03
-
-#### Aula 15 - TP 04
-
-#### Aula 16 - Avaliação 02
+#### Aula 14
+#### Aula 15
+#### Aula 16
+#### Aula 17
+#### Aula 18
+#### Aula 19
+#### Aula 20
+#### Estágio 02
 
 ### Unidade 03
 
-Filtros a Capacitores Chaveados
-
-#### Aula 17
-
-#### Aula 18
-
-#### Aula 19
-
-#### Aula 20
-
 #### Aula 21
-
-#### Aula 22 - TP 05
-
-#### Aula 23 - TP 06
-
-#### Aula 24 - Avaliação 03
+#### Aula 22
+#### Aula 23
+#### Aula 24
+#### Aula 25
+#### Aula 26
+#### Aula 27
+#### Aula 28
+#### Aula 29
+#### Aula 30
+#### Estágio 03
