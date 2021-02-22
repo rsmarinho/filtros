@@ -71,21 +71,39 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 
 ### Unidade 01
 
-#### Aula 01
+#### Aula 01 - Introdução
 * Introdução à filtragem
 * Compreender o que é um filtro
 * Filtros em vários estados
 * Desenvolver noção de tipos de Filtro
 * Exemplo de simulação de um filtro
-* Calcular função de transferência de filtros
+* Exemplo de Calculo de função de transferência de um filtro
 
 #### Aula 02
+* Decibél
+* Diagrama de Bode
+* Relação Tempo vs. Frequência
+
 #### Aula 03
+* Redes passivas e conversores de impedância
+
 #### Aula 04
+* Redes passivas e conversores de impedância
+
 #### Aula 05
+* Calculo de funções de transferência de filtros de primeia e segunda ordem
+* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+
 #### Aula 06
+* Calculo de funções de transferência de filtros de primeia e segunda ordem
+* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+
 #### Aula 07
+* Localização de Polos e Zeros em exemplos de filtros
+
 #### Aula 08
+* Localização de Polos e Zeros em exemplos de filtros
+
 #### Aula 09
 #### Aula 10
 #### Estágio 01
