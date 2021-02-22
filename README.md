@@ -80,7 +80,7 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 * Exemplo de Calculo de função de transferência de um filtro
 
 #### Aula 02
-* Decibél
+* Decibel
 * Diagrama de Bode
 * Relação Tempo vs. Frequência
 
