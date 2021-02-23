@@ -85,18 +85,18 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 * Relação Tempo vs. Frequência
 
 #### Aula 03
-* Redes passivas e conversores de impedância
+* Calculo de funções de transferência de filtros de primeira e segunda ordem
+* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
 
 #### Aula 04
-* Redes passivas e conversores de impedância
+* Calculo de funções de transferência de filtros de primeira e segunda ordem
+* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
 
 #### Aula 05
-* Calculo de funções de transferência de filtros de primeia e segunda ordem
-* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+* Redes passivas e conversores de impedância
 
 #### Aula 06
-* Calculo de funções de transferência de filtros de primeia e segunda ordem
-* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+* Redes passivas e conversores de impedância
 
 #### Aula 07
 * Localização de Polos e Zeros em exemplos de filtros
