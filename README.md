@@ -16,7 +16,7 @@ Rafael de Sousa Marinho
 
 ### Horário
 
-46M45
+46M45 : Quartas e Sextas - 10-12h
 
 ## Programa do Componente Curricular
 
@@ -113,6 +113,8 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 ### Unidade 02
 
 #### Aula 11
+* Configuração de circuito de filtragem ativo 
+
 #### Aula 12
 #### Aula 13
 #### Aula 14
