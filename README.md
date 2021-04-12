@@ -71,7 +71,7 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 
 ### Unidade 01
 
-#### Aula 01 - Introdução
+#### Aula 01 - Introdução/Contextualização
 * Introdução à filtragem
 * Compreender o que é um filtro
 * Filtros em vários estados
@@ -79,30 +79,36 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
 * Exemplo de simulação de um filtro
 * Exemplo de Calculo de função de transferência de um filtro
 
-#### Aula 02
+#### Aula 02 - Introdução/Contextualização
 * Decibel
 * Diagrama de Bode
 * Relação Tempo vs. Frequência
 
 #### Aula 03
-* Calculo de funções de transferência de filtros de primeira e segunda ordem
-* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+* *Aula Prática:*
+    - Tutorial simulação XSCHEM+NGSPICE
+    - Tutorial cálculo de FT de circuito utilizando Python
 
 #### Aula 04
 * Calculo de funções de transferência de filtros de primeira e segunda ordem
-* Exemplos simulados de Filtros de primeira e segunda ordem – Filtros Passivos
+* *Aula Prática:*
+    - Exemplos de filtros de 1a Ordem: **exemplo01.sch**, **exemplo02a.sch**, **exemplo02b.sch**.
 
 #### Aula 05
-* Redes passivas e conversores de impedância
+* Calculo de funções de transferência de filtros de primeira e segunda ordem
+* *Aula Prática:*
+    - Exemplos de filtros de 1a Ordem: **exemplo03a.sch**, **exemplo03b.sch**.
 
 #### Aula 06
-* Redes passivas e conversores de impedância
+* Redes de conversão de impedância e o fator de qualidade (Q) - (1/X)
+
+#### Aula 07
+* Redes de conversão de impedância e o fator de qualidade (Q) - (2/X)
 
 #### Aula 07
 * Localização de Polos e Zeros em exemplos de filtros
 
 #### Aula 08
-* Localização de Polos e Zeros em exemplos de filtros
 
 #### Aula 09
 #### Aula 10
