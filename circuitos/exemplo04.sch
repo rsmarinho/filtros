@@ -14,7 +14,7 @@ na entrada do circuito. De forma a maximizar a
 potência transferida à carga.} 560 -570 0 0 0.4 0.4 {}
 T {filter 1} 330 -490 0 0 0.3 0.3 {}
 T {O circuito 2 é uma versão "simplificada" do
-circuito 1 para frequência f0=1000 KHz. 
+circuito 1 para frequência f0=1 KHz. 
 
 O circuito 2 é utilizado para calcular os 
 valores de LS e C2 na frequência ressonante.
