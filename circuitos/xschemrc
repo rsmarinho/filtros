@@ -195,6 +195,7 @@ set netlist_dir $env(PWD)/simulations
 #### lxterminal is not OK since it will not inherit env vars: 
 #### In order to reduce memory usage and increase the performance, all instances
 #### of the lxterminal are sharing a single process. LXTerminal is part of LXDE
+set terminal {konsole}
 
 ###########################################################################
 #### EDITOR
