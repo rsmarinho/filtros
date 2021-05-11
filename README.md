@@ -100,18 +100,35 @@ OBS. A prova de reposição constará da unidade que o aluno não compareceu (li
     - Exemplos de filtros de 1a Ordem: **exemplo03a.sch**, **exemplo03b.sch**.
 
 #### Aula 06
-* Redes de conversão de impedância e o fator de qualidade (Q) - (1/X)
+* Redes de conversão de impedância e o fator de qualidade (Q) - (1/3)
 
 #### Aula 07
-* Redes de conversão de impedância e o fator de qualidade (Q) - (2/X)
-
-#### Aula 07
-* Localização de Polos e Zeros em exemplos de filtros
+* Redes de conversão de impedância e o fator de qualidade (Q) - (2/3)
 
 #### Aula 08
+* Redes de conversão de impedância e o fator de qualidade (Q) - (3/3)
 
 #### Aula 09
+* Funções de aproximação - (1/2)
+    - Aproximação de Funções de Transferência
+        - Função de atenuação e de Ganho
+        - Gabarito de Filtros
+    - Funções de Aproximação : Butterworth (exemplo)
+        - Função Característica
+        - Determinação da ordem à partir do gabarito
+        - Determinação da função ganho
+
 #### Aula 10
+* Funções de aproximação - (2/2)
+    - Exemplos simulados numericamente
+
+#### Aula 11
+* Transformações em frequência e escalamento
+    - PB'->PB
+    - PB'->PA
+    - PB'->PF
+    - PB'->RF
+
 #### Estágio 01
 
 ---
